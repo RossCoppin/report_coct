@@ -248,7 +248,7 @@ ggarrange(boxplot_month + rremove("x.text"), boxplot_meta_month + rremove("x.tex
 
 ## Cleared and Non-cleared areas between sites
 
-Significant differences were found for both POM and transect length between areas within sites. POM in cleared areas was significantly higher at all sites, with Muizenberg being the exception. Visual comparison showed significantly higher transect lengths for non-cleared areas than cleared areas at all sites with both Hout Bay west and east being exceptions.
+Significant differences were found for both POM and transect length between areas within sites. POM in cleared areas was significantly higher at all sites, with Muizenberg being the exception (see Figure 3). Visual comparison showed significantly higher transect lengths for non-cleared areas than cleared areas at all sites with both Hout Bay west and east being exceptions.
 
 ```{r kwtest_site, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
 kruskal.test(data = df, pom~area, subset = site) # where y1 is numeric and A is a factor
