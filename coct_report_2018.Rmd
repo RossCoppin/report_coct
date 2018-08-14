@@ -14,8 +14,6 @@ output:
 
 ```{r data prep, message=FALSE, warning=FALSE, include=FALSE}
 
-setwd("C:\\Program Files/R/r_working_directory/coct")
-
 library(ggplot2)
 library(tidyverse)
 library(lubridate)
@@ -88,8 +86,6 @@ meta_sum
 
 # Introduction
 ## Background
-
-Marine ecosystems are maintained by a variety of complex interactions between abiotic and biotic variables such as temperature, pH, competition, and processes such as top-down and bottom-up control, predator-prey relationships and phenology [@Doney2012] These abiotic and biotic variables, the interactions between them, and the various ecological processes, ultimately determine the community composition and ecological functioning of all ecosystems. Climate change directly and indirectly affects the way in which abiotic and biotic variables interact, but is often compounded by other impacts such as habitat destruction, pollution, and over-fishing [@Blamey2015a]. Kelps are also economically important as they are harvested for alginate production, fertilizer supplement and feed for abalone in aquaculture settings [@Troell2006; @Bolton2009]. In addition, they provide habitat for other economically important species, such as reef fish, rock lobster and abalone. Kelps are dependent on cold or cool-temperate water for their survival, which means that changes in ocean temperature could affect the physiological and ecological well-being of kelp species, including the ecosystems they 'engineer' [@Dayton1992; @Wernberg2010; @Doney2012]. Since a whole host of interconnected environmental variables can affect the distribution of kelp, it is often difficult to identify the main environmental driver and to separate the direct effects from the indirect effects. However, most of the literature points towards temperature as being one of the main drivers of kelp ecosystems, and temperature stress may compound the effects of other variables.
 
 Kelps dominate approximately 25% of global, shallow, rocky reef ecosystems and play a significant role in the functioning of these ecosystems. Kelps are 'ecosystem engineers' that provide a critical 3-dimensional habitat for fauna and various flora, and they are also highly productive organisms [@Santelices1984; @Dayton1985; @Steneck2002]. The high productivity of kelps allows important nutrients to be exported to adjacent and distant habitats as allochthonous production, and therefore their role in the food web is not limited to the shallow subtidal zone; instead they are the base for many connected coastal food webs [@Stuart1982; @Dayton 1985; @Bustamante1996; @Duggins1997; @Kelly2005; @Miller2012; @Krumhansl2014]. Environmental factors such as nutrients [@Jackson1977; @Field1980b; @Fram2008],turbidity , light [@Reed1984; @Graham1997; @Toohey2004; @Wernberg2005; @Bennett2015], sedimentation [@Kennelly1983; @Vadas1992; @Madsen2001; @Schiel2006], temperature [@Novaczek1984; @Wiencke1989; @Rothausler2009; @Wernberg2010; @Bolton2012; @Verges2014; @Verges2016; @Basford2016 and hydrodynamics [@Seymour1989; @Dayton1992; @Utter1996; @Kawamata2001; @Taylor2003; @Fowler-Walker2006] have been shown to affect the growth, recruitment and recovery of kelps [@Wernberg2010; @Mohring2014].
 
