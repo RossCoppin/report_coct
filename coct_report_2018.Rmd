@@ -18,7 +18,7 @@ bibliography: references.bib
 
 # Introduction
 
-The initial aim of the project was to determine the role kelp wrack plays in sandy beach ecology. This research would then provide the CoCT with direct evidence to support the practice of not removing kelp beach-cast from specific sections of beaches around the Cape Peninsula. However, due to limitations and the complex nature of the study sites the overall aim was adjusted. The focus of the current research was to determine the role kelp biomass plays in overall particulate organic matter (POM) content of beach soil, as this has been shown to be an important "bottom-up" diver of sand beach ecological communities.  
+The initial aim of the project was to determine the role kelp wrack plays in sandy beach ecology. This research would then provide the CoCT with direct evidence to support the practice of not removing kelp beach-cast from specific sections of beaches around the Cape Peninsula. However, due to limitations and the complex nature of the study sites the overall aim was adjusted. The focus of the current research was to determine the role kelp biomass plays in overall particulate organic matter (POM) content of beach soil, as this has been shown to be an important "bottom-up" diver of sandy beach ecological communities.  
 
 ## Background
 
@@ -35,7 +35,7 @@ Drift kelp that washes up on beaches around the Western Cape are managed by two 
 
 Within the concession areas, there are regions designated as Marine Protected Areas by South African National Parks (SANParks), and no kelp is collected from these areas [@Yoshikawa2013]. This is due to the recognition of the ecological significance of beach cast kelp in coastal ecosystems. Kelp that is washed ashore is an important source of nutrients for invertebrate communities and provides an important bottom-up control mechanism for beach ecosystems [@Dugan2011]. Furthermore, research elsewhere in the world has shown that beach cast kelp is important in the formation and stabilisation of dunes [@Ince2007]. Although it has a significant role to play in beach systems, the decomposition process of kelp releases a foul odour in the form of hydrogen sulphide [@Dugan2011]. This is a point of concern for ratepayers who complain that the kelp needs to be removed for aesthetic reasons. The CoCT recognises both the ecological significance of beach cast kelp and is cognizant of the concern of ratepayers and the possible negative consequences on tourism at specific beaches (e.g. Clifton beach and Camps Bay) due to the smell and other unsatisfactory conditions caused by decomposing kelp. The CoCT, therefore, collects beach cast kelp from predetermined beaches and disposes the kelp in landfills as there is currently no procedures in place to process and dispose of kelp in a sustainable manner [@Yoshikawa2013].
 
-[I'll insert here a bit about the initial aim, and then talk quickly about why this was changed.]
+[I'll insert here a bit about the initial aim, and then talk quickly about why this was changed. I have added this to the introduction]
 
 Since kelp biomass has been shown to be an important detrital input in sandy beach ecosystems, the removal of beach-cast may therefore affect the overall particular organic matter (POM) content available within the sediment of sandy beaches, which could possibly lead to a bottom-up affect on food webs.
 
@@ -50,7 +50,12 @@ The aim of this study was to determine if clearing of kelp from beaches affects 
 
 # Study sites
 
-Various beaches around Cape Town are divided up into 'cleared' and 'non-cleared' areas by the City of Cape Town. This study focuses on a subset of these beaches (Figure 1), selected to cover a range of wave dynamics as determined by Dr. Christo Rautenbach, Chief Marine Scientist, South African Weather Service [Figure 2... insert map of study area and wave exposure here].
+Various beaches around Cape Town are divided up into 'cleared' and 'non-cleared' areas by the City of Cape Town. This study focuses on a subset of these beaches (Figure 1), selected to cover a range of wave dynamics as determined by Dr. Christo Rautenbach, Chief Marine Scientist, South African Weather Service.
+
+```{r}
+![Figure 2: wave exposure around the Cape peninsula and CoCT kelp collections sites.](/figures/wave_exposure.jpg)
+```
+
 
 ## Hout Bay east and west
 
