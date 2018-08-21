@@ -12,10 +12,14 @@ output:
     toc: yes
 bibliography: references.bib    
 ---
+# Abstract
 
 \newpage
 
 # Introduction
+
+The initial aim of the project was to determine the role kelp wrack plays in sandy beach ecology. This research would then provide the CoCT with direct evidence to support the practice of not removing kelp beach-cast from specific sections of beaches around the Cape Peninsula. However, due to limitations and the complex nature of the study sites the overall aim was adjusted. The focus of the current research was to determine the role kelp biomass plays in overall particulate organic matter (POM) content of beach soil, as this has been shown to be an important "bottom-up" diver of sandy beach ecological communities.  
+
 ## Background
 
 Kelps dominate approximately 25% of global, shallow, rocky reef ecosystems and play a significant role in the functioning of these ecosystems. Kelps are 'ecosystem engineers' that provide a critical 3-dimensional habitat for fauna and various flora, and they are also highly productive organisms [@Dayton1985; @Steneck2002]. The high productivity of kelps allows important nutrients to be exported to adjacent and distant habitats as allochthonous production, and therefore their role in the food web is not limited to the shallow subtidal zone; instead they are the base for many connected coastal food webs [@Stuart1982; @Dayton1985; @Bustamante1995; @Duggins1997]. 
@@ -31,7 +35,7 @@ Drift kelp that washes up on beaches around the Western Cape are managed by two 
 
 Within the concession areas, there are regions designated as Marine Protected Areas by South African National Parks (SANParks), and no kelp is collected from these areas [@Yoshikawa2013]. This is due to the recognition of the ecological significance of beach cast kelp in coastal ecosystems. Kelp that is washed ashore is an important source of nutrients for invertebrate communities and provides an important bottom-up control mechanism for beach ecosystems [@Dugan2011]. Furthermore, research elsewhere in the world has shown that beach cast kelp is important in the formation and stabilisation of dunes [@Ince2007]. Although it has a significant role to play in beach systems, the decomposition process of kelp releases a foul odour in the form of hydrogen sulphide [@Dugan2011]. This is a point of concern for ratepayers who complain that the kelp needs to be removed for aesthetic reasons. The CoCT recognises both the ecological significance of beach cast kelp and is cognizant of the concern of ratepayers and the possible negative consequences on tourism at specific beaches (e.g. Clifton beach and Camps Bay) due to the smell and other unsatisfactory conditions caused by decomposing kelp. The CoCT, therefore, collects beach cast kelp from predetermined beaches and disposes the kelp in landfills as there is currently no procedures in place to process and dispose of kelp in a sustainable manner [@Yoshikawa2013].
 
-[I'll insert here a bit about the initial aim, and then talk quickly about why this was changed.]
+[I'll insert here a bit about the initial aim, and then talk quickly about why this was changed. I have added this to the introduction]
 
 Since kelp biomass has been shown to be an important detrital input in sandy beach ecosystems, the removal of beach-cast may therefore affect the overall particular organic matter (POM) content available within the sediment of sandy beaches, which could possibly lead to a bottom-up affect on food webs.
 
@@ -42,11 +46,11 @@ The aim of this study was to determine if clearing of kelp from beaches affects 
 1) Sample sediment from beaches designated as "cleared"" and "non-cleared" of kelp.
 2) Determine if there are any differences in POM content of cleared and non-cleared areas of selected beaches.
 3) Determine if differences in POM content are driven by other factors such as kelp biomass and transect length.
-4) Make recommendations regarding the importance of kelps for the ecolgical functioning of sandy beach ecosystems in the CoCT region.
+4) Make recommendations regarding the importance of kelps for the ecological functioning of sandy beach ecosystems in the CoCT region.
 
 # Study sites
 
-Various beaches around Cape Town are divided up into 'cleared' and 'non-cleared' areas by the City of Cape Town. This study focuses on a subset of these beaches (Figure 1), selected to cover a range of wave dynamics as determined by Dr. Christo Rautenbach, Chief Marine Scientist, South African Weather Service [Figure 2... insert map of study area and wave exposure here].
+Various beaches around Cape Town are divided up into 'cleared' and 'non-cleared' areas by the City of Cape Town. This study focuses on a subset of these beaches (Figure 1), selected to cover a range of wave dynamics as determined by Dr. Christo Rautenbach, Chief Marine Scientist, South African Weather Service.
 
 ## Hout Bay east and west
 
@@ -69,8 +73,9 @@ On both areas dog-walking is allowed and activity tends to be lower compared to 
 ## Strandfontein
 
 The cleared area is characterised by a large parking lot, beach pavilion and tidal pool. There is also construction activities between the tidal pool wall and beach. Activity was high on the day of sampling relative to the other beaches in the study. The non-cleared area has low activity and characterised by and extensive dune system and established vegetation. The beach is fairly well maintained and very low amount of litter was noted. Shell debris was common in surf zone in both cleared and non-cleared areas.  
+RESEARCH APPROACH AND METHODS
 
-# Methods
+# Research approach and methods
 ## Data collection
 
 The aforementioned beaches were sampled for POM content in the sediment by sampling between the low-tide and high-tide line, or as far as possible if any structures were in the way. Each transect was divided into five sections according to the length of the transect on that particular sampling occasion. Sediment samples, 20cm deep, were taken each time and placed in a small ziplock bag and labelled. Each sample was weighed, dried, re-weighed, placed in a muffle furnace at 400 °C and finally re-weighed. The difference between in grams between the start and end weight (prior to and after placed into the muffle furnace) was used as an estimate as particulate organic matter (POM) content. This method is know as "loss on ignition" [@Santisteban2004; @Byers1978].
@@ -132,11 +137,9 @@ No significant correlation was found between transect length and POM (_z_ = -1.0
 
 
 
-# Discussion
+# Conclusion and recommendations for follow-up action
 
 Kelp wrack on beaches provides an important energy subsidy into sandy beach ecosystems, and it which drives "bottom-up" control of invertebrates, in turn affecting other organisms such as bird species. POM is a breakdown product of kelp decomposition, and gets produced by combined physical (abrasion and other forms of mechanical action) and biological decomposition processes. In the absence of _in situ_ autochthonous primary production, wrack-derived POM forms the sole source of nourishment for sustaining most species of sandy beach macrofauna and meiofauna [cisneros2011; ortega2017]. The results from this study were surprising as POM content in cleared areas tended to not be different in its POM content compared to that taken from non-cleared areas. 
-
-The degree to which POM content gets incorporated into beach sediment has been shown to be determined by the size of sediment grains. <But the next study cited here is about wrack and not about POM. I don't think it is safe to assume that if wrack increases as a result of cobble size, that the POM will increase. Also, POM will not accumulate when the grains are too big, as it simply flushes through.> @Orr2005a investigated the temporal and spatial variation of kelp wrack on different beach types. The results showed that beaches with cobble stones retained approximately 30 times more kelp wrack compared to sand beaches [@Orr2005a]. In other words, large grain sizes will have more space between them and ultimately more dissolved organic matter compared to fine grain beaches <This is also not a valid conclusion--anyway, DOM is not the same as POM.>. Although grain size was fine between all the beaches in the study, which may play a role in the accumulation of POM on beaches, no differences in size of grains was noted between sites. 
 
 There was also no significant difference in POM content between sites, with Hout Bay West as the exception. The significanly higher POM content at Hout Bay West may be due to beach activities and point sources of pollution. For instance, the cleared section of Hout Bay West is a popular area for dog walking and a drain pipe leading onto the beach from the parking lot is also present, which may be adding to POM content in this area.
 
@@ -144,16 +147,17 @@ The built up areas, wind and lack of adjacent sand dunes may be contributing to 
 
 Therefore, the beach-cleaning activities by the CoCT may be necessary in order to prevent the build up of POM in beach soils, as this may become toxic in high concentrations. 
 
-
-# Limitations and recommendations
-
 The lack of data and communication from the City of Cape Town was a significant barrier that could not be overcome. The data-set promised by the City was not sent to us, despite various requests and meetings, and therefore the aim of the study could not be met entirely. Security issues at Strandfontein Beach and Strandfontein resort meant that sampling only occurred once at these sites. Also, the beaches sampled in this study may be significantly influenced by other factors such as land-use change, runoff, pollution, wave exposure and wind. Therefore, due to the complexity of study sites it was difficult to determine if beach cleaning activities are driving POM content in beach sediment around the Cape Peninsula. 
 
 * No suitable environments are available to study the affects of kelp deposition on beach stability. The initial intent was to to test the hypothesis that primary sand dune are stablished by the presence of kelp wrack, which facilitates the establishment of pioneer dune species, and this ultimately resulting in a well-vegetated dune system. However, upon receiving the initial data from the city regarding which areas are designated cleared vs. non-cleared, 
 
 It is recommended that in future better communication between researchers and CoCT staff is established, and that requested data is shared in a timely manner. Furthermore, future studies should include beaches where other anthropogenic sources of influence are limited and should include as many beaches along the coastline as possible. 
 
+# Budget
+
 ## References
+
+
 
 
 
