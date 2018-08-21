@@ -52,11 +52,6 @@ The aim of this study was to determine if clearing of kelp from beaches affects 
 
 Various beaches around Cape Town are divided up into 'cleared' and 'non-cleared' areas by the City of Cape Town. This study focuses on a subset of these beaches (Figure 1), selected to cover a range of wave dynamics as determined by Dr. Christo Rautenbach, Chief Marine Scientist, South African Weather Service.
 
-```{r}
-![Figure 2: wave exposure around the Cape peninsula and CoCT kelp collections sites.](/figures/wave_exposure.jpg)
-```
-
-
 ## Hout Bay east and west
 
 Hout Bay beach is essentially one beach divided by the mouth of the Disa River. The Disa River is highly polluted, with a clear warning sign in view for beach-goers. Due to residential development adjacent to the estuary, the mouth of the river closes more frequently causing a build-up of polluted water. 
@@ -310,8 +305,6 @@ cor.test(sum_site$mean_pom, as.numeric(meta_kelp$cast_noncleared), method = c("k
 
 Kelp wrack on beaches provides an important energy subsidy into sandy beach ecosystems, and it which drives "bottom-up" control of invertebrates, in turn affecting other organisms such as bird species. POM is a breakdown product of kelp decomposition, and gets produced by combined physical (abrasion and other forms of mechanical action) and biological decomposition processes. In the absence of _in situ_ autochthonous primary production, wrack-derived POM forms the sole source of nourishment for sustaining most species of sandy beach macrofauna and meiofauna [cisneros2011; ortega2017]. The results from this study were surprising as POM content in cleared areas tended to not be different in its POM content compared to that taken from non-cleared areas. 
 
-The degree to which POM content gets incorporated into beach sediment has been shown to be determined by the size of sediment grains. <But the next study cited here is about wrack and not about POM. I don't think it is safe to assume that if wrack increases as a result of cobble size, that the POM will increase. Also, POM will not accumulate when the grains are too big, as it simply flushes through.> @Orr2005a investigated the temporal and spatial variation of kelp wrack on different beach types. The results showed that beaches with cobble stones retained approximately 30 times more kelp wrack compared to sand beaches [@Orr2005a]. In other words, large grain sizes will have more space between them and ultimately more dissolved organic matter compared to fine grain beaches <This is also not a valid conclusion--anyway, DOM is not the same as POM.>. Although grain size was fine between all the beaches in the study, which may play a role in the accumulation of POM on beaches, no differences in size of grains was noted between sites. 
-
 There was also no significant difference in POM content between sites, with Hout Bay West as the exception. The significanly higher POM content at Hout Bay West may be due to beach activities and point sources of pollution. For instance, the cleared section of Hout Bay West is a popular area for dog walking and a drain pipe leading onto the beach from the parking lot is also present, which may be adding to POM content in this area.
 
 The built up areas, wind and lack of adjacent sand dunes may be contributing to the slightly higher POM content in cleared areas. Once kelp has been washed onto beaches it begins to degrade through various abiotic and biotic processes. The organic material may also enter the atmosphere through wind action, which transports the organic matter to distant and adjacent marine and terrestrial ecosystems [@Ince2007]. However the human structures in and around the beaches (walls, parking lots, buildings, etc.) may be preventing the transport of POM by wind. In other words, unlike pristine sandy beaches where wind would transport some of the POM to nearby ecosystems, the sandy beach ecosystems in this study were characterised by limited dune systems and human structures. Instead, POM content builds up over time and may also be compounded by point and non-point sources of pollution such as drain pipes and runoff.
@@ -328,7 +321,7 @@ It is recommended that in future better communication between researchers and Co
 
 ## References
 
-# Appendix
+
 
 
 
